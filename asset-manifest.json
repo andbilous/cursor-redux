@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursor-redux/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cursor-redux/static/js/main.f4afe925.chunk.js",
+    "main.js.map": "/cursor-redux/static/js/main.f4afe925.chunk.js.map",
+    "runtime-main.js": "/cursor-redux/static/js/runtime-main.b630e50e.js",
+    "runtime-main.js.map": "/cursor-redux/static/js/runtime-main.b630e50e.js.map",
+    "static/js/2.6b71087f.chunk.js": "/cursor-redux/static/js/2.6b71087f.chunk.js",
+    "static/js/2.6b71087f.chunk.js.map": "/cursor-redux/static/js/2.6b71087f.chunk.js.map",
+    "index.html": "/cursor-redux/index.html",
+    "precache-manifest.97ce64f88461e492922473c1055d8fb9.js": "/cursor-redux/precache-manifest.97ce64f88461e492922473c1055d8fb9.js",
+    "service-worker.js": "/cursor-redux/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cursor-redux/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6b71087f.chunk.js.LICENSE.txt": "/cursor-redux/static/js/2.6b71087f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b630e50e.js",
+    "static/js/2.6b71087f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f4afe925.chunk.js"
+  ]
+}
